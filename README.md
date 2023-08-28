@@ -1,4 +1,5 @@
-![logo24](https://user-images.githubusercontent.com/118929456/236468731-cb9da539-5f65-40f6-9a52-a441f5e3f118.svg)
+
+![logo128](https://github.com/browseroffice/distance-meter/assets/118929456/a798fcb3-f3c6-41bd-b4fa-802e7069e241)
 ## BrowserOffice :: Distance Meter
 
 [![Firefox Exension](https://img.shields.io/amo/v/distance-meter.svg?label=firefox)](https://addons.mozilla.org/firefox/addon/distance-meter/)
